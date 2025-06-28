@@ -1,8 +1,10 @@
-![capa](https://media.licdn.com/dms/image/v2/D4D16AQE5a9JfAm5Ajw/profile-displaybackgroundimage-shrink_350_1400/B4DZa2X4cYHAAY-/0/1746816436514?e=1752105600&v=beta&t=9-H9EdEF_Ndy7-EB4fZHPpmQUAXMaYYgm5UMda4chOs)
+![capa](https://media.licdn.com/dms/image/v2/D4D16AQFhTmqQEA26Bw/profile-displaybackgroundimage-shrink_350_1400/B4DZejBLQzHMAc-/0/1750786684948?e=1756339200&v=beta&t=gLGEik4YLpyXn8cdyZJcjk74k6JHeMtqKS_pkj3HG6s)
 
 <sub> 🔗 Visite também >> [Portfólio Data Engineer](https://github.com/leonildolinck/Portfolio_Data-Engineering) </sub>
 
 <sub> 🔗 Visite também >> [Portfólio Data Analyst](https://github.com/leonildolinck/Portfolio_Data-Analyst) </sub>
+
+<sub> 🔗 Visite também >> [Portfólio DevOps](https://github.com/leonildolinck/Portfolio_DevOps) </sub>
 
 # Portfólio de Desenvolvimento Web
 
